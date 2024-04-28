@@ -1,3 +1,5 @@
+# markmapplus
+专为写电子书增强的vscode markmap插件
 # markmap
 
 [![Join the chat at https://gitter.im/gera2ld/markmap](https://badges.gitter.im/gera2ld/markmap.svg)](https://gitter.im/gera2ld/markmap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
